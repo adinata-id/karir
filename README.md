@@ -27,5 +27,5 @@ https://karir-lake.vercel.app/
  - [Speedtest WIFI](https://midteknologi.com/speedtest-wifi/)
  - [Website Seo Analysis](https://midteknologi.com/tools/website-analysis/)
  - [Email Temporary](https://inspacebox.com/)
- = [QR Code Generator](https://useqrcode.me/)
+ - [QR Code Generator](https://useqrcode.me/)
  - [Free Web Online Tools](https://supertools.me)
