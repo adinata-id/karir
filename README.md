@@ -18,9 +18,14 @@ Install Karir Free Templates
 https://karir-lake.vercel.app/
 
 
-## Our Tools & Sites
+## Our Web Tools
 
  - [MID TEKNOLOGI](https://midteknologi.com)
- - [Mikrotik Scripts](https://mikrotikscripts.netlify.app/)
- - [Free Web Online Tools](https://supertools.me)
+ - [Mikrotik Scripts](https://midteknologi.com/blog/mikrotik-scripts/)
+ - [Whois Domain Lookup](https://midteknologi.com/whois-domain/)
+ - [DNS Propagation Checker](https://midteknologi.com/dns-propagation-checker/)
+ - [Speedtest WIFI](https://midteknologi.com/speedtest-wifi/)
  - [Website Seo Analysis](https://midteknologi.com/tools/website-analysis/)
+ - [Email Temporary](https://inspacebox.com/)
+ = [QR Code Generator](https://useqrcode.me/)
+ - [Free Web Online Tools](https://supertools.me)
